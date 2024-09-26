@@ -7,16 +7,12 @@
       "RelativeMoniker": "D:0:0:{ED5381A7-EC9F-49BE-BA91-E893C8427A8D}|Csharp.csproj|solutionrelative:partialsumcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED5381A7-EC9F-49BE-BA91-E893C8427A8D}|Csharp.csproj|d:\\hw\\pp_bos\\csharp\\sumcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED5381A7-EC9F-49BE-BA91-E893C8427A8D}|Csharp.csproj|D:\\HW\\PP_bos\\Csharp\\sumcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED5381A7-EC9F-49BE-BA91-E893C8427A8D}|Csharp.csproj|solutionrelative:sumcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED5381A7-EC9F-49BE-BA91-E893C8427A8D}|Csharp.csproj|d:\\hw\\pp_bos\\csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED5381A7-EC9F-49BE-BA91-E893C8427A8D}|Csharp.csproj|D:\\HW\\PP_bos\\Csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED5381A7-EC9F-49BE-BA91-E893C8427A8D}|Csharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED5381A7-EC9F-49BE-BA91-E893C8427A8D}|Csharp.csproj|d:\\hw\\pp_bos\\csharp\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED5381A7-EC9F-49BE-BA91-E893C8427A8D}|Csharp.csproj|solutionrelative:objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,15 +50,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PartialSumCalculator.cs",
-              "DocumentMoniker": "D:\\HW\\PP_bos\\Csharp\\PartialSumCalculator.cs",
-              "RelativeDocumentMoniker": "PartialSumCalculator.cs",
-              "ToolTip": "D:\\HW\\PP_bos\\Csharp\\PartialSumCalculator.cs",
-              "RelativeToolTip": "PartialSumCalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HW\\PP_bos\\Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\HW\\PP_bos\\Csharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T14:31:45.932Z",
+              "WhenOpened": "2024-09-25T14:23:35.185Z",
               "EditorCaption": ""
             },
             {
@@ -73,35 +69,22 @@
               "RelativeDocumentMoniker": "SumCalculator.cs",
               "ToolTip": "D:\\HW\\PP_bos\\Csharp\\SumCalculator.cs",
               "RelativeToolTip": "SumCalculator.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBMAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T14:29:03.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ObjectPool.cs",
-              "DocumentMoniker": "D:\\HW\\PP_bos\\Csharp\\ObjectPool.cs",
-              "RelativeDocumentMoniker": "ObjectPool.cs",
-              "ToolTip": "D:\\HW\\PP_bos\\Csharp\\ObjectPool.cs",
-              "RelativeToolTip": "ObjectPool.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PartialSumCalculator.cs",
+              "DocumentMoniker": "D:\\HW\\PP_bos\\Csharp\\PartialSumCalculator.cs",
+              "RelativeDocumentMoniker": "PartialSumCalculator.cs",
+              "ToolTip": "D:\\HW\\PP_bos\\Csharp\\PartialSumCalculator.cs",
+              "RelativeToolTip": "PartialSumCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T14:25:48.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\HW\\PP_bos\\Csharp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\HW\\PP_bos\\Csharp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T14:23:35.185Z",
+              "WhenOpened": "2024-09-25T14:31:45.932Z",
               "EditorCaption": ""
             }
           ]

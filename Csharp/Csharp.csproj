@@ -44,7 +44,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="SumCalculator.cs" />
-    <Compile Include="ObjectPool.cs" />
     <Compile Include="PartialSumCalculator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
